@@ -1,0 +1,30 @@
+body {
+	background-color: ghostwhite;
+	background-image: url("mountain3.jpg");
+	background-repeat: no-repeat;
+	background-position: middle;
+	background-attachment: fixed;
+	}
+	
+h1 {
+	color: deepskyblue;
+	text-align: center: 50px;
+	}
+
+html {
+	scroll-behavior:smooth;
+	}
+	
+h2 {	
+	margin-left: 40px;
+	}
+	
+p {
+	font-family: times new roman;
+	font-size 20px;
+	text-align: left;
+	color: black;
+	}
+	
+
+	

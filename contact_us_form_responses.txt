@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Thank You Form Submission </title>
+		<link rel="stylesheet" type="text/css" href="ExternalCSS.css">
+		<link rel="icon" href="company.jpg">
+		<style>
+			h1 {font-size: 0.8cm;}
+			h2{font-size: 0.5cm;}
+			p{
+				font-size: 0.4cm;
+				line-height: 1cm;
+			}
+
+			.topnav {
+						  overflow: hidden;
+						  background-color: black;
+
+						}
+
+						.topnav a {
+						  float: left;
+						  color: lightgrey;
+						  text-align: center;
+						  padding: 20px 22px;
+						  text-decoration: none;
+						  font-size: 18px;
+						}
+
+						.topnav a:hover {
+						  background-color: violet;
+						  color: black;
+						}
+
+						.topnav a.active {
+						  background-color: dodgerblue;
+			  color: lightgrey;
+}
+		</style>
+	</head>
+	<body style="background-color:ghostwhite;">
+
+		<div class="topnav">
+				  <a class="active" href="index.html">Home</a>
+
+				  <a href="major.html">Major</a>
+
+				  <a href="interests.html">Interests</a>
+
+				  <a href="projects.html">Projects</a>
+
+				  <a href="sports.html">Sports</a>
+
+				  <a href="food.html">Food</a>
+
+				  <a href="locations.html">House Locations</a>
+
+				  <a href="travel_destinations.html">Travel Destinations</a>
+
+				  <a href="work_experience.html">Work Experience</a>
+
+				  <a href="contact-us.html">Contact Us</a>
+
+
+</div>
+
+		<h1 style="border: 2px solid violet;"> Contact-Us Form Submission </h1> <hr><h1>
+			<p> Thank you so much for your form submission and interest! I will respond shortly, thank you! </p>
+
+	<br>
+	<br>
+	<br>
+	<hr>
+		<footer>
+			<p><small> &copy Sean Stuart in association with Valley Repair<small>
+			<address> Written by <ahref="mailto:sstua001@odu.edu"> Sean Stuart </a>. <br>
+															  Chesapeake, VA </address>
+		</footer>
+	</body>
+</html>
