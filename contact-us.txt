@@ -172,7 +172,7 @@
 					<input type="checkbox" name="contactmethod" value="phone"> Phone<br><br>
 
 				Comments:<br>
-				<textarea name="comments" rows="10" cols="50" wrap="physically | on">
+				<textarea name="comments" rows="10" cols="50">
 				</textarea></br><br><br><br>
 
 
