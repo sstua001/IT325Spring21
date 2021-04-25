@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Food </title>
+		<link rel="stylesheet" type="text/css" href="ExternalCSS.css">
+		<link rel="icon" href="company.jpg">
+		<style>
+			h1 {font-size: 1.5cm;}
+			h2{font-size: 1.0cm;}
+			p{
+				font-size: 0.5cm;
+				line-height: 1cm;
+			}
+
+			.topnav {
+			  overflow: hidden;
+			  background-color: black;
+
+			}
+
+			.topnav a {
+			  float: left;
+			  color: lightgrey;
+			  text-align: center;
+			  padding: 20px 22px;
+			  text-decoration: none;
+			  font-size: 18px;
+			}
+
+			.topnav a:hover {
+			  background-color: violet;
+			  color: black;
+			}
+
+			.topnav a.active {
+			  background-color: dodgerblue;
+  color: lightgrey;
+}
+		</style>
+	</head>
+	<body style="background-color:ghostwhite;">
+
+		<div class="topnav">
+		  <a class="active" href="index.html">Home</a>
+
+		  <a href="major.html">Major</a>
+
+		  <a href="interests.html">Interests</a>
+
+		  <a href="projects.html">Projects</a>
+
+		  <a href="sports.html">Sports</a>
+
+		  <a href="food.html">Food</a>
+
+		  <a href="locations.html">House Locations</a>
+
+		  <a href="travel_destinations.html">Travel Destinations</a>
+
+		  <a href="work_experience.html">Work Experience</a>
+
+		  <a href="contact-us.html">Contact Us</a>
+
+
+</div>
+
+		<h1 style="border: 2px solid violet;"> Food </h1> <hr><h1>
+
+		<iframe src="https://open.spotify.com/embed/track/6rQ8I332rSjbMpwXXtwHed" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+		<p> If you would like, you can listen to this song while you browse this page! </p>
+
+		<h2> Favorite Food </h2>
+			<p style="color: DodgerBlue;"> I am a very picky eater so I do not try a whole lot. Thus, my favorite food is pretty basic. </p>
+				<ol type="I">
+					<li> Pizza </li> <br>
+					<li> Chicken Sandwiches </li> <br>
+					<li> Chicken Tenders </li> <br>
+					<li> Steak </li> <br>
+					<li> Tacos </li> <br>
+					<li> Peanut Butter Sandwiches </li> <br>
+				</ol><hr>
+		<br>
+		<h2> Favorite Food Places </h2>
+			<p style="color: DodgerBlue;"> Below are my favorite places to eat. The first list is fast food and the second list is restaurants: </p>
+			<br><ol> <p style="color: violet;"> Fast Food: </p>
+				<li> Taco Bell </li> <br>
+				<li> Chick-Fil-A </li> <br>
+				<li> Cookout </li> <br>
+				<li> Wendy's </li> <br>
+				<li> Burger King </li> <br>
+			</ol> <br>
+
+			<ol type="A"> <p style="color: violet;"> Restaurants: </p>
+				<li> Red Robin </li> <br>
+				<li> Gianna's Pizzeria </li> <br>
+				<li> Texas Roadhouse </li> <br>
+				<li> Cheesecake Factory </li> <br>
+				<li> Outback Steak House </li> <br>
+				<li> Buffalo Wild Wings </li> <br>
+				<li> Applebee's </li> <br>
+			</ol> <br>
+
+			<ol type="a"> <p style="color: violet;"> Pizza Places: </p>
+				<li> Pizza Hut </li> <br>
+				<li> Andy Boy's </li> <br>
+				<li> Dominos Pizza </li> <br>
+				<li> Papa Johns Pizza </li> <br>
+			</ol> <br><hr>
+
+
+			<h2> Photos: </h2>
+
+				<a href= "https://www.chick-fil-a.com/">
+					<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-chickfila-1570879550.jpg?" alt="Chick-Fil-A" style="width:375px;height:350px;margin:20px;">
+				</a>
+					<p style="color: DodgerBlue;"> This link in the photo goes to Chick Fil A </p> <br>
+
+				<a href="https://www.tacobell.com/">
+					<img src="https://www.gannett-cdn.com/presto/2020/07/02/USAT/93f25b4e-9422-4789-88fa-b1d3ae2d9b78-taco-bell-grilled-cheese-burrito.jpg?" alt="Taco Bell" style="width:375px;height:350px; margin:20px;">
+				</a>
+					<p style="color: DodgerBlue;"> This link in the photo goes to Taco Bell </p> <br>
+
+				<a href="https://www.texasroadhouse.com/menu/food/hand-cut-steaks-ribs">
+					<img src="https://www.texasroadhouse.com/images/usda-choice-sirloin@1x.e6ae8c74a34e2d6bfeb92e96fdba8fea.jpg" alt="Texas Roadhouse" style="width:400px;height:350px; margin: 20px;">
+				</a>
+					<p style="color: DodgerBlue;"> This link in the photo goes to Texas Roadhouse </p><br>
+
+				<a href="https://www.redrobin.com/">
+					<img src="https://www.chewboom.com/wp-content/uploads/2018/07/Red-Robin-Introduces-New-Hop-Salt-Fries-And-New-Island-Heat-Crispy-Chicken-Sandwich.jpg" alt="Red Robin" style="width:400px;height:350px; margin:20px;">
+				</a>
+					<p style="color: DodgerBlue;"> This link in the photo goes to Red Robin </p><br>
+
+				<a href="https://www.pizzahut.com/">
+					<img src="https://dynl.mktgcdn.com/p/d9AXTJEWMZ156q11dLLVRHsmufNu0K-ng4JYb_4WwRI/1900x1427.jpg" style="width:375px;height:350px; margin:20px;">
+				</a>
+					<p style="color: DodgerBlue;"> This link in the photo goes to PizzaHut </p><br>
+
+				<a href="https://www.papajohns.com/">
+					<img src="https://i.insider.com/5ef9f5653f73701b9c786964?&format=jpeg" style="width:375px;height:350px;margin:20px;">
+				</a>
+					<p style="color: DodgerBlue;"> This link in the photo goes to Papa Johns </p>
+	<br>
+	<br>
+	<br>
+	<hr>
+		<footer>
+			<p><small> &copy Sean Stuart in association with Valley Repair<small>
+			<address> Written by <ahref="mailto:sstua001@odu.edu"> Sean Stuart </a>. <br>
+															  Chesapeake, VA </address>
+		</footer>
+	</body>
+</html>

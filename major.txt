@@ -1,0 +1,98 @@
+<!DOCTYPE>
+<html>
+<head>
+		<title> My Major </title>
+		<link rel="stylesheet" type="text/css" href="ExternalCSS.css">
+		<link rel="icon" href="company.jpg">
+		<style>
+				h1 {font-size: 1.0cm;}
+				h2{font-size: 0.8cm;}
+
+				.topnav {
+							  overflow: hidden;
+							  background-color: black;
+
+							}
+
+							.topnav a {
+							  float: left;
+							  color: lightgrey;
+							  text-align: center;
+							  padding: 20px 22px;
+							  text-decoration: none;
+							  font-size: 18px;
+							}
+
+							.topnav a:hover {
+							  background-color: violet;
+							  color: black;
+							}
+
+							.topnav a.active {
+							  background-color: dodgerblue;
+				  color: lightgrey;
+}
+		</style>
+
+	</head>
+		<body style="background-color:ghostwhite;">
+
+		<div class="topnav">
+				  <a class="active" href="index.html">Home</a>
+
+				  <a href="major.html">Major</a>
+
+				  <a href="interests.html">Interests</a>
+
+				  <a href="projects.html">Projects</a>
+
+				  <a href="sports.html">Sports</a>
+
+				  <a href="food.html">Food</a>
+
+				  <a href="locations.html">House Locations</a>
+
+				  <a href="travel_destinations.html">Travel Destinations</a>
+
+				  <a href="work_experience.html">Work Experience</a>
+
+				  <a href="contact-us.html">Contact Us</a>
+
+
+</div>
+
+		<h1 style="border: 2px solid violet;"> Major </h1> <hr>
+			<p> I am currently pursuing an Information Technology degree at Old Dominion University. This link contains the <a href="https://catalog.odu.edu/undergraduate/stromecollegeofbusiness/bsbainfosystems/infosysandtech-bsba-fouryearplan/"> IT courses</a> I have to take. Additionally, my minor is Cyber Security. The link contains the <a href="https://catalog.odu.edu/undergraduate/schoolofcybersecurity/#cybersecurityinterdisciplinaryminortext"> Cybersecurity courses </a> I can take. I am in my Senior year with 6 courses left until I graduate. I am currently interested in Networks, Web Page development, and Security. I was pretty good at Programming and Databases but I do not enjoy them. After graduation, I hope to find a job in the private sector or public sector as a Network Administrator. At first, I was a Management major but quickly changed it to Marketing. A year ago, I changed my major again, due to not enjoying Marketing, to Information Technology. </p>
+
+			<hr>
+
+		<h2 style="color: DodgerBlue;"> Courses </h2>
+			<p> My favorite courses in the Information Technology field are Networking, Website Design, and Cyber Security. </p>
+
+			<hr>
+
+		<h2 style="color: DodgerBlue;"> Certifications </h2>
+			<p> Some certifications I am planning on getting are: CompTIA Network+ and CompTIA Security+. The only certification I have is the Google Analytics Certification. I am planning to get these because they relate to the jobs I am trying to pursue in the future. </p>
+
+		<a href="https://www.odu.edu/">
+			<img src="https://visaatodu.org/wp-content/uploads/odu-strome.jpg" alt="ODU Strome College of Business" style="width:500px ;height:300px ;margin:40px ;">
+
+		<a href="https://www.odu.edu/">
+			<img src="https://www.nicepng.com/png/detail/271-2714239_117-odu-old-dominion-monarchs-logo.png" alt="" style="width:500px ;height:300px ;margin:40px ;">
+		</a>
+			<p style="color: DodgerBlue;"> These links in the photos go to ODU's Website </p><br>
+
+			<br>
+			<br>
+			<br>
+			<hr>
+					<footer>
+						<p><small> &copy Sean Stuart in association with Valley Repair<small>
+						<address> Written by <ahref="mailto:sstua001@odu.edu"> Sean Stuart </a>. <br>
+								  Chesapeake, VA </address>
+		</footer>
+
+
+
+	</body>
+</html>

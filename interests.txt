@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title> My Interests </title>
+		<link rel="stylesheet" type="text/css" href="ExternalCSS.css">
+		<link rel="icon" href="company.jpg">
+		<style>
+					h1 {font-size: 1.0cm;}
+					h2{font-size: 0.8cm;}
+
+					.topnav {
+								  overflow: hidden;
+								  background-color: black;
+
+								}
+
+								.topnav a {
+								  float: left;
+								  color: lightgrey;
+								  text-align: center;
+								  padding: 20px 22px;
+								  text-decoration: none;
+								  font-size: 18px;
+								}
+
+								.topnav a:hover {
+								  background-color: violet;
+								  color: black;
+								}
+
+								.topnav a.active {
+								  background-color: dodgerblue;
+					  color: lightgrey;
+}
+		</style>
+
+	</head>
+		<body style="background-color:ghostwhite;">
+
+		<div class="topnav">
+				  <a class="active" href="index.html">Home</a>
+
+				  <a href="major.html">Major</a>
+
+				  <a href="interests.html">Interests</a>
+
+				  <a href="projects.html">Projects</a>
+
+				  <a href="sports.html">Sports</a>
+
+				  <a href="food.html">Food</a>
+
+				  <a href="locations.html">House Locations</a>
+
+				  <a href="travel_destinations.html">Travel Destinations</a>
+
+				  <a href="work_experience.html">Work Experience</a>
+
+				  <a href="contact-us.html">Contact Us</a>
+
+
+</div>
+
+		<h1 style="border: 2px solid violet;"> Interests </h1> <hr>
+			<p> I have many interests. I love to watch movies, play video games, play sports, animals, technology, cook, and woodworking. I love to travel which has been limited due to this pandemic. My best friends and I had a plan to go to Puerto Rico last summer but due to the earthquakes and pandemic, we did not go.<p>
+		<hr>
+
+		<h2 style="color: DodgerBlue;"> Favorite movies </h2>
+			<p> I like comedy, action and adventure, and thrillers the most. I do not like horror movies but my friends always make me watch them! I recently watched <i>The Little Things</i> on HBO Max. It was about detectives solving a serial killer case. It was pretty good but the ending was not the best. My favorite movies are: Star Wars, Avengers, Aquaman, The Hurt Locker, Saving Private Ryan, and Harry Potter. </p>
+
+		<hr>
+		<h2 style="color: DodgerBlue;"> Favorite Games </h2>
+			<p> I am fortunate enough to have both the PS5 and Xbox Series S as well as the Nintendo Switch. I enjoy Playstation the most due to their exclusives. I love the Last of Us, Ghost of Tsushima, Horizon Zero Dawn, and God of War. I do not play on PC because I do not own a powerful PC but also because I find it awkward. </p>
+
+		<hr>
+		<h2 style="color: DodgerBlue;"> Hobbies </h2>
+			<p> My hobbies include woodworking, technology, and hanging out with friends. I always try to have the newest technology and watch the new product announcements. I am currently planning to install Ethernet in my house too.
+<hr> <br><br>
+
+		<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/999015397&color=%233f4867&auto_play=true&hide_related=false&hide_comments=false&hide_user=false&hide_reposts=false&hide_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/experimentbeats" title="Experiment Music" target="_blank" style="color: #cccccc; text-decoration: none;">Experiment Music</a> · <a href="https://soundcloud.com/experimentbeats/drake-whats-next-instrumental" title="Drake - What&#x27;s Next (INSTRUMENTAL)" target="_blank" style="color: #cccccc; text-decoration: none;">Drake - What&#x27;s Next (INSTRUMENTAL)</a></div>
+
+		<a href="https://www.humanesociety.org/resources/understanding-feline-language">
+			<img src="https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2020-07/kitten-510651.jpg?h=f54c7448&itok=ZhplzyJ9" alt="Cats" style="width:500px ;height:300px ;margin:10px ;">
+		</a>
+			<p style="color: DodgerBlue;"> This link in the photo goes to The Humane Society of The United State's Website </p><br>
+
+
+		<a href="https://www.starwars.com/">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1024px-Star_Wars_Logo.svg.png" alt="Star Wars" style="width:500px ;height:300px ;margin:10px ;">
+		</a>
+			<p style="color: DodgerBlue;"> This link in the photo goes to Star War's Website </p><br>
+
+
+		<a href="https://www.gamesradar.com/ghost-of-tsushima-price/">
+			<img src="https://cdn.mos.cms.futurecdn.net/jKyZh7AmtzFheyg3GWUn3k.jpg" alt="Ghost of Tsushima" style="width:500px ;height:300px ;margin:10px ;">
+		</a>
+			<p style="color: DodgerBlue;"> This link in the photo goes to Gamesradar </p><br>
+
+
+			<br>
+			<br>
+			<br>
+			<hr>
+					<footer>
+						<p><small> &copy Sean Stuart in association with Valley Repair<small>
+						<address> Written by <ahref="mailto:sstua001@odu.edu"> Sean Stuart </a>. <br>
+								  Chesapeake, VA </address>
+		</footer>
+
+
+
+
+
+
+
+	</body>
+</html>
